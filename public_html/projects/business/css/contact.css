@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+  background-color: #FFF;
+  margin: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+a:link {
+  color: #242446;
+  text-decoration: none;
+}
+a:visited {
+  color: #8954BB;
+  font-size: x-large;
+  text-decoration: none;
+}
+a:hover {
+  color: #AC58A5;
+}
+
+h1 {
+  color: #FFF;
+}
+h2 {
+  color: #9DA;
+}
+h3 {
+  color: #C87;
+}
+.images {
+  float: left;
+  width: 33.33%;
+}
+
+div.j {
+  background-color: #6A3;
+  margin: -35px;
+  padding: 10px;
+}
+div.a, div.b  {
+  border: 1px solid #F0F;
+  background-color: #294;
+}
