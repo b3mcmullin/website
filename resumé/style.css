@@ -6,7 +6,15 @@
 *{
   box-sizing: border-box;
 }
-
+a {
+  color: black;
+}
+a:hover {
+  color: #000;
+}
+a:visited {
+  color: #000;
+}
 :root{
   --page-width: 8.5in;
   --page-height: 11in;
